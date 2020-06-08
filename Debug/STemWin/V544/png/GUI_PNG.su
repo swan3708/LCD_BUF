@@ -1,0 +1,13 @@
+GUI_PNG.c:79:12:GUI_PNG__GetData	16	static
+GUI_PNG.c:100:13:_png_cexcept_error	0	static
+GUI_PNG.c:110:20:_png_read_data	32	static
+GUI_PNG.c:148:13:_free_fn	24	static
+GUI_PNG.c:126:18:_malloc_fn	8	static
+GUI_PNG.c:166:12:_GetImageHeader.constprop	72	static
+GUI_PNG.c:510:12:_GetSize	56	static
+GUI_PNG.c:541:5:GUI_PNG_GetXSizeEx	24	static
+GUI_PNG.c:559:5:GUI_PNG_GetXSize	16	static
+GUI_PNG.c:570:5:GUI_PNG_GetYSizeEx	24	static
+GUI_PNG.c:588:5:GUI_PNG_GetYSize	16	static
+GUI_PNG.c:599:6:GUI_PNG_DrawEx	184	static
+GUI_PNG.c:615:5:GUI_PNG_Draw	32	static

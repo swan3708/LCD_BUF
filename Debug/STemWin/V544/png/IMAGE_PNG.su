@@ -1,0 +1,6 @@
+IMAGE_PNG.c:63:13:_GetImageSize	32	static
+IMAGE_PNG.c:47:13:_DrawImageAt	32	static
+IMAGE_PNG.c:96:13:_GetImageSizeEx	32	static
+IMAGE_PNG.c:80:13:_DrawImageAtEx	32	static
+IMAGE_PNG.c:119:6:IMAGE_SetPNG	24	static
+IMAGE_PNG.c:141:6:IMAGE_SetPNGEx	24	static

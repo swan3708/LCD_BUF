@@ -1,0 +1,10 @@
+HW_Init.c:86:6:MX_LCD_Init	72	static
+HW_Init.c:140:6:MX_FMC_Init	40	static
+HW_Init.c:192:6:MX_SDRAM_InitEx	32	static
+HW_Init.c:248:6:MX_DMA2D_Init	8	static
+HW_Init.c:276:6:HAL_LTDC_MspInit	80	static
+HW_Init.c:412:6:HAL_LTDC_MspDeInit	8	static
+HW_Init.c:578:6:HAL_SDRAM_MspInit	48	static
+HW_Init.c:662:6:HAL_SDRAM_MspDeInit	8	static
+HW_Init.c:672:6:HAL_DMA2D_MspInit	16	static
+HW_Init.c:691:6:HAL_DMA2D_MspDeInit	0	static

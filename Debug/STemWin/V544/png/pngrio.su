@@ -1,0 +1,2 @@
+pngrio.c:32:1:png_read_data	8	static
+pngrio.c:87:1:png_set_read_fn	0	static

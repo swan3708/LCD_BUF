@@ -1,0 +1,6 @@
+zutil.c:30:22:zlibVersion	0	static
+zutil.c:35:15:zlibCompileFlags	0	static
+zutil.c:136:22:zError	0	static
+zutil.c:152:20:zmemcpy	0	static
+zutil.c:163:19:zmemcmp	12	static
+zutil.c:176:20:zmemzero	0	static

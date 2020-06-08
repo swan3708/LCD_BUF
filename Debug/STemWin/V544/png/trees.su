@@ -1,0 +1,14 @@
+trees.c:409:12:init_block	8	static
+trees.c:453:12:pqdownheap	36	static
+trees.c:705:12:scan_tree	20	static
+trees.c:750:12:send_tree	56	static
+trees.c:1060:12:compress_block	56	static
+trees.c:617:12:build_tree	104	static
+trees.c:1186:12:bi_windup	8	static
+trees.c:1169:12:bi_flush	12	static
+trees.c:381:20:_tr_init	0	static
+trees.c:865:20:_tr_stored_block	24	static
+trees.c:882:20:_tr_flush_bits	0	static
+trees.c:892:20:_tr_align	16	static
+trees.c:907:20:_tr_flush_block	48	static
+trees.c:1010:19:_tr_tally	16	static
