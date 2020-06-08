@@ -29,4 +29,4 @@ STemwin_wrapper.c:808:6:LCD_X_Config	8	static
 STemwin_wrapper.c:895:5:LCD_X_DisplayDriver	24	static
 STemwin_wrapper.c:981:6:GRAPHICS_IncTick	0	static
 STemwin_wrapper.c:986:6:GRAPHICS_HW_Init	8	static
-STemwin_wrapper.c:996:6:GRAPHICS_Init	0	static
+STemwin_wrapper.c:996:6:GRAPHICS_Init	8	static

@@ -174,7 +174,6 @@ int main(void)
 	HAL_Delay(500);
 	HAL_GPIO_WritePin(GPIOD, LCD_RESETN_Pin, GPIO_PIN_SET);     // LCD RESET 을 풀어준다.
 	HAL_GPIO_WritePin(GPIOI, GPIO_PIN_6, GPIO_PIN_SET);         // LCD 백라이트 동작시킴
-
 /* Initialise the graphical hardware */
   GRAPHICS_HW_Init();
 

@@ -67,7 +67,7 @@
 #define XSIZE_PHYS      320
 #define YSIZE_PHYS      240   
 
-#define NUM_BUFFERS         1   /* Number of multiple buffers to be used */
+#define NUM_BUFFERS         2   /* Number of multiple buffers to be used */
 #define NUM_VSCREENS        1  /* Number of virtual screens to be used */
 
 #define COLOR_CONVERSION_0      GUICC_888
@@ -998,8 +998,8 @@ void GRAPHICS_Init(void)
   /* Initialize the GUI */
   GUI_Init();
 
+   WM_MULTIBUF_Enable(1);
 /* Enable the multi-buffering functionality */
-  // WM_MULTIBUF_Enable(1);
 
   /* Activate the use of memory device feature */
      /* USER CODE BEGIN WM_SetCreateFlags */
